@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Jiawei 👋
 
-<!--
-**0xJiawei/0xJiawei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build at the intersection of **AI × Crypto**.
 
-Here are some ideas to get you started:
+I'm an independent researcher and builder focused on turning frontier ideas into practical systems, tools, and workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- **Research**  
+  Translate fast-moving AI and crypto signals into structured theses and decision frameworks.
+
+- **Build**  
+  Create local-first, reliability-oriented AI products and agentic workflows for real-world use.
+
+- **Execute**  
+  Design systems that improve leverage: faster iteration, better judgment, and repeatable output.
+
+## Current focus
+
+- AI-native research infrastructure
+- Agent workflow orchestration
+- AI × Crypto product opportunities
+
+## Background
+
+- Ex-**Investment Principal @ IOSG Ventures**
+- Independent AI & Crypto researcher / builder
+
+## Featured project
+
+### Jessie
+A local-first AI workspace built with Tauri + React + TypeScript, powered by OpenRouter.  
+Focused on real tool execution, memory quality, and reliability-first interaction.
+
+- Repo: https://github.com/0xJiawei/jessie
+
+## Connect
+
+- X (Twitter): [@0xjiawei](https://twitter.com/0xjiawei)
