@@ -23,7 +23,7 @@ I'm an independent researcher and builder focused on turning frontier ideas into
 
 ## Background
 
-- Ex-**Investment Principal @ [IOSG Ventures]([https://iosg.vc/])**
+- Ex-**Investment Principal @[IOSG Ventures](https://iosg.vc/)**
 - Independent AI & Crypto researcher / builder
 
 ## Featured project
