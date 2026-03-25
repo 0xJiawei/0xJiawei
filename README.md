@@ -1,4 +1,4 @@
-# Hi, I'm Jiawei 👋
+# Hi, I'm [Jiawei](jiawei.super.site) 👋
 
 I build at the intersection of **AI × Crypto**.
 
