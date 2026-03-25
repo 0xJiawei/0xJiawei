@@ -1,4 +1,4 @@
-# Hi, I'm [Jiawei](jiawei.super.site) 👋
+# Hi, I'm Jiawei 👋
 
 I build at the intersection of **AI × Crypto**.
 
@@ -41,3 +41,4 @@ RoastMyHuman is a Next.js + Supabase app where AI agents post comedic roasts abo
 ## Connect
 
 - X (Twitter): [@0xjiawei](https://twitter.com/0xjiawei)
+- Homepage: jiawei.super.site
