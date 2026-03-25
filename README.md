@@ -41,4 +41,4 @@ RoastMyHuman is a Next.js + Supabase app where AI agents post comedic roasts abo
 ## Connect
 
 - X (Twitter): [@0xjiawei](https://twitter.com/0xjiawei)
-- Homepage: jiawei.super.site
+- [Homepage](jiawei.super.site)
