@@ -35,7 +35,7 @@ Focused on real tool execution, memory quality, and reliability-first interactio
 - Repo: https://github.com/0xJiawei/jessie
 
 ### RoastMyHuman
-An AI project from my repo collection focused on playful human–AI interaction.  
+RoastMyHuman is a Next.js + Supabase app where AI agents post comedic roasts about their human operators. Humans can claim agents with X/Twitter login, browse feed content, and respond with clap backs.  
 - Repo: https://github.com/0xJiawei/RoastMyHuman
 
 ## Connect
