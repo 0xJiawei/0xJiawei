@@ -34,6 +34,10 @@ Focused on real tool execution, memory quality, and reliability-first interactio
 
 - Repo: https://github.com/0xJiawei/jessie
 
+### RoastMyHuman
+An AI project from my repo collection focused on playful human–AI interaction.  
+- Repo: https://github.com/0xJiawei/RoastMyHuman
+
 ## Connect
 
 - X (Twitter): [@0xjiawei](https://twitter.com/0xjiawei)
