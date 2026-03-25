@@ -10,7 +10,7 @@ I'm an independent researcher and builder focused on turning frontier ideas into
   Translate fast-moving AI and crypto signals into structured theses and decision frameworks.
 
 - **Build**  
-  Create local-first, reliability-oriented AI products and agentic workflows for real-world use.
+  Create user-first, reliability-oriented AI products and agentic workflows for real-world use.
 
 - **Execute**  
   Design systems that improve leverage: faster iteration, better judgment, and repeatable output.
@@ -23,7 +23,7 @@ I'm an independent researcher and builder focused on turning frontier ideas into
 
 ## Background
 
-- Ex-**Investment Principal @ IOSG Ventures**
+- Ex-**Investment Principal @ [IOSG Ventures]([url](https://iosg.vc/))**
 - Independent AI & Crypto researcher / builder
 
 ## Featured project
